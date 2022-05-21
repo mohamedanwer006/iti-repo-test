@@ -15,7 +15,7 @@ git branch -d dev
 ## list tag
 
 ```
-git tag list
+git tag --list
 ```
 
 ## delete tag locally
