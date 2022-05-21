@@ -12,7 +12,23 @@ git push origin -d dev
 git branch -d dev
 ```
 
+## list tag
 
+```
+git tag list
+```
+
+## delete tag locally
+
+```
+git tag -d v1.7
+```
+
+## delete tag remotely
+
+```
+git push --delete origin  v1.7
+```
 
 
 
